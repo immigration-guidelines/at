@@ -1,0 +1,45 @@
+Austria - published administrative guidance on immigration case handling
+Checked 2026-11-14.
+
+Result: essentially nothing is published. The Interior Ministry (BMI) does issue
+decrees and circulars to the settlement authorities (Niederlassungsbehörden of the
+Länder), the police and the BFA, but it does not publish them.
+
+Sources checked
+- RIS, "Erlässe der Bundesministerien" (https://www.ris.bka.gv.at/Erlaesse/, queried
+  through https://data.bka.gv.at/ris/api/v2.6/Sonstige?Applikation=Erlaesse):
+  no document of the BMI at all. Full-text searches for Niederlassungs- und
+  Aufenthaltsgesetz, NAG, Fremdenpolizeigesetz, FPG, Fremdengesetz, Fremdenrecht,
+  Fremdenpolizei, Aufenthaltstitel, Aufenthaltsrecht, Aufenthaltsberechtigung,
+  Aufenthaltsverbot, Niederlassung, Asyl, Asylgesetz, Asylwerber, Schubhaft,
+  Abschiebung, Drittstaatsangehörige, Rot-Weiß-Rot, Ausländerbeschäftigungsgesetz,
+  Ausländer, Einreise, Visum, Staatsbürgerschaft return only decrees of other
+  ministries (mostly Justice) that mention these terms in passing.
+  The two that actually deal with aliens-law procedure are saved in related-bmj/:
+  Justice Ministry decrees telling courts, prosecutors and prisons what to report to
+  the aliens authorities (2002, 2017). They are NOT instructions to immigration
+  offices.
+- BMI website: https://www.bmi.gv.at/312/ (Niederlassung und Aufenthalt, incl.
+  sub-pages), /301/ (Asylwesen), /202/fremdenpolizei_und_grenzkontrolle/,
+  /110/ (Verlautbarungen), /downloads/. Only legal texts, forms, statistics,
+  brochures, and a specimen catalogue of residence titles ("Muster der
+  Aufenthaltstitel und Dokumentationen", editions 2006-2026, under
+  https://www.bmi.gv.at/312/start.aspx) - a reference aid, not downloaded.
+  No Erlass, Durchführungserlass, "Handbuch zum NAG" or "Informationen für Behörden".
+- BFA (https://www.bfa.gv.at/, incl. /402/ Broschüren): public brochures and
+  country-of-origin reports only; no internal instructions.
+- AMS (https://www.ams.at/organisation/ueber-ams/ams-richtlinien): publishes its
+  federal guidelines, but none on the Ausländerbeschäftigungsgesetz / Rot-Weiß-Rot
+  card procedure.
+- Vienna MA 35 (https://www.wien.gv.at/zusammenleben/einwanderung-aufenthalt):
+  applicant information only.
+- Web searches for "Handbuch zum NAG", "Durchführungserlass NAG", BMI
+  "Rundschreiben" on official (gv.at) sites: nothing published.
+
+Where BMI instructions do surface
+- Quoted in answers to parliamentary questions, e.g. the BMI circular of 30 March
+  2021 to the settlement authorities on § 20(4) NAG and absences during COVID-19,
+  described in https://www.parlament.gv.at/dokument/XXVII/AB/6410/imfname_986635.pdf
+  (not downloaded: a parliamentary answer, not the circular itself).
+- Possibly through freedom-of-information portals (e.g. fragdenstaat.at); not
+  checked, since that is not official publication.
