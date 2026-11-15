@@ -7,4 +7,6 @@ Published guidance that the authorities of Austria issue to the officials who de
 - The files are unmodified copies of what the source published. Where a source refused automated access, copies come from a public web archive; the index says which.
 - What is missing, and how to obtain it, is described in [MISSING.md](https://github.com/immigration-guidelines/.github/blob/main/MISSING.md), in the repository that also holds the download scripts. Other jurisdictions are listed on the [organisation page](https://github.com/immigration-guidelines).
 
+**Labour authority.** `labour/` holds the two federal guidelines of the Public Employment Service (AMS) found to bear on employing foreign nationals. The AMS publishes nothing on its assessments under the Aliens Employment Act, the Red-White-Red Card or the EU Blue Card.
+
 The documents remain the work of the authorities that published them.

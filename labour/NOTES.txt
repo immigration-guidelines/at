@@ -1,0 +1,46 @@
+Austria - labour authority: Arbeitsmarktservice (AMS)
+Collected 15 November 2026. Script: download_at_labour.py (python3 download_at_labour.py).
+
+Role
+The AMS decides employment permits (Beschäftigungsbewilligung) under the Ausländerbeschäftigungsgesetz (AuslBG)
+and gives the binding labour-market opinion for the Red-White-Red Card and the EU Blue Card, which the residence
+authorities then issue. Cases are handled in the AMS regional offices and, for skilled-worker cards, in the
+"Fachzentren für die Beschäftigung von Ausländer_innen" (AFZ).
+
+Sources checked
+- https://www.ams.at/robots.txt (read first): excludes only search paths (/arbeitssuchende/suche, /unternehmen/suche,
+  /organisation/suche, /arbeitsmarktdaten-und-medien/suche, /client).
+- https://www.ams.at/organisation/ueber-ams/ams-richtlinien - 10 published guidelines (funding and training
+  instruments: ast, AV_SOEB_GBP, bemo, soeb, wbb-wbt, fks, gbp, qbn, UEGG_SUG ...). None concerns the AuslBG,
+  the Red-White-Red Card or the EU Blue Card.
+- https://www.ams.at/organisation/kontaktmoeglichkeiten/informationsfreiheit-ams - the AMS's publications under
+  the Freedom of Information Act (IFG, in force since 1 September 2025): 126 PDFs, of which about 35 federal
+  guidelines (Bundesrichtlinien, "001_brl_..."), the rest contracts and IT orders. No guideline on the AuslBG,
+  the Red-White-Red Card or the EU Blue Card is among them. The two "core process" guidelines are the only ones
+  that deal with third-country nationals; both are saved.
+
+Saved (2 PDFs, 4.5 MB, kind guidance)
+- 2026-09-01 Bundesrichtlinie Kernprozess "Unternehmen unterstützen" (SFU/2-2026, GZ BGS/SFU/0602/6264/2026),
+  103 pp. Section 6.1.4.2 "Beschäftigung von Drittstaatsangehörigen" (AuslBG support: information, advice,
+  processing of applications in the AFZ, and the replacement-worker procedure, Ersatzkraftverfahren, EKV);
+  section 9.2.1 field "Ersatzauftrag": legal basis of the EKV, §§ 4(1) and 4b AuslBG; recording of AuslBG
+  violations; checking that temporary-work agencies hold the trade licence for hiring out labour.
+- 2025-07-01 Bundesrichtlinie Kernprozess "Arbeitskräfte unterstützen" (SFA/0502), 146 pp. Registration and
+  placement of third-country nationals.
+
+Temporary-work agencies and the EU Blue Card in these texts
+- BRL Kernprozess Arbeitskräfte unterstützen (gültig ab 1.7.2025), section 7.3.3 "Matching und Vermittlung
+  durchführen", "Zusätzliche Qualitätsstandards für besondere Personengruppen - Ausländer_innen" (p. 124):
+  "Ausländer_innen ohne freien Arbeitsmarktzugang dürfen nicht zu Arbeitskräfteüberlassern vermittelt werden,
+  da in diesen Fällen keine amtswegige Beschäftigungsbewilligung erteilt werden kann (§ 4 Abs. 1 Z 7 AuslBG).
+  Handelt es sich um Ausländer_innen mit freiem Arbeitsmarktzugang, steht der Vermittlung zu
+  Arbeitskräftüberlassern nichts im Wege."
+- Neither guideline mentions the EU Blue Card or the Red-White-Red Card, payroll companies or employers of record.
+
+How much real guidance
+Little. The AMS publishes its federal guidelines, but none is about the AuslBG, the Red-White-Red Card or the EU
+Blue Card; the instructions its AFZ staff apply to those cases are not public. What is public touches the
+subject only through the employer-service and jobseeker-service process guidelines saved here.
+
+Earlier work vs this pass: both PDFs, index.tsv and the script are from an earlier agent (15 November 2026);
+re-verified (pdfinfo, listings re-read) and this file and not-obtained.tsv added on 15 November 2026.
